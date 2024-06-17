@@ -1,2 +1,5 @@
 # rtree_bigData
-R-Tree data structure created from scratch for big data. Personally created an algorithm that searches the tree of 150,000 data-points in less than 0.001 secs 
+For my final assessment in my Big Data unit that I took at Macquarie University, I was tasked with creating an R-Tree from scratch with 150,000 data-points and desining a search tree algorithm that finds how many data points can be found in a specific region of the tree.
+
+My algorithm was about 130 times faster than the convenors example of an R-Tree based scan with mine having a runtime of less than 0.0001 seconds 
+ 
